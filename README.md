@@ -14,3 +14,4 @@
 - Make sure you already have installed `docker` in your machine.
 - Go to root directory of the repository and run `docker build -t video-search .` to build the docker image
 - Run the dockerized image with `docker run -p 3000:3000 video-search:latest`. P.S. you might have to expose the envs as mentioned above.
+- Checkout already built docker image on `https://hub.docker.com/r/utsavvaghani/video-search`.
